@@ -261,7 +261,7 @@ section .title::after{
     background: none;
 }
 
-
+/* skill */
 .skills .title::after{
     content: "what i know";
 }
@@ -323,7 +323,7 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 70%;
 }
 .skills-content .right .js::before{
     width: 50%;
@@ -331,8 +331,8 @@ section .title::after{
 .skills-content .right .bootstrap::before{
     width: 50%;
 }
-.skills-content .right .wordPress::before{
-    width: 40%;
+.skills-content .right .reactjs::before{
+    width: 50%;
 }
 
 /* Project section styling */
